@@ -1,0 +1,14 @@
+The title and description of this algorithm: Shell Sort is an in-place comparison sorting algorithm. It starts by sorting pairs of elements far apart from each other, then progressively reduces the gap beteen elements
+compared and swapped. The main idea is to rearrange the array of elements by inserting unsorted elements in their correct position.
+
+Worst case asymptotic run time: O(n^2) However, this depends on the gap sequences, time complexity can be improved to O(nlog^2n).
+
+Best case asymptotic run time: O(nlogn) Best-case time complexity is when array is aleady sorted.
+
+Advantages of this algorithm: Shell Sort has a relatively simple implementation and can adapt to data and can perform better than insertion sort for small sublists. 
+
+Drawbacks of this algorithm: Not a stable sorting algorithm, might change relative order of equal elements. Complexity is dependent on choosing optimal gap sequences which can be complex and it is not the most efficient choice
+for large datasets due to it's O(n^2) worst-case time  complexity.
+
+In what situation, in software development or research, would you choose this algorithm over Quicksort? When would you choose it over Selection sort? Shell Sort can be used over Quicksort when stability is not a concern
+and you want a simple sorting algorithm. Shell Sort is generaly faster than Selection Sort for larger datasets making it better when dealing with substantial amount of data that needs to be sorted in-place.

@@ -1,0 +1,199 @@
+#!/usr/bin/env python3
+# =============================================================================
+# =========================== ENVIRONMENT VARIABLES ===========================
+# =============================================================================
+LAB_NB = 4
+
+REQUIRED_FILES = [
+    "ex4q1.c",
+    "ex4q2.c",
+]
+
+Q1_INPUT_1 = """\
+/C/C/C/T#P#L/P#T/C
+"""
+
+Q1_OUTPUT_1 = """\
+Net profit: $3.85
+"""
+
+Q1_INPUT_2 = """\
+#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P/C/C/C/C/C/C/C/C/C/T/T/T/T/T/T#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P/C/C/C/C/C/C/C/C/C/T/T/T/T/T/T#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P/C/C/C/C/C/C/C/C/C/T/T/T/T/T/T#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P/C/C/C/C/C/C/C/C/C/T/T/T/T/T/T#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P/C/C/C/C/C/C/C/C/C/T/T/T/T/T/T#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P#P
+"""
+
+Q1_OUTPUT_2 = """\
+Net profit: -$21.15
+"""
+
+Q2_INPUT_1 = """\
+4
+10.0 1.0 3.0 2.5
+3.1
+3.5
+10.0
+15.0
+100.123
+"""
+
+Q2_OUTPUT_1 = """\
+1
+2
+3
+3
+4
+"""
+
+Q2_INPUT_2 = """\
+17
+269.843 154.570 175.888 38.697 124.55 102.09 37.87 179.13 172.37 272.41 2.04 68.2 159.94 258.99 223.42 62.2 61.889
+32.38
+324.32
+549.48
+15422.01
+837.91
+381.73
+403789.70
+405.48
+3900.31
+671.01
+492.38
+"""
+
+Q2_OUTPUT_2 = """\
+1
+6
+8
+17
+10
+7
+17
+7
+17
+9
+7
+"""
+
+# =============================================================================
+# ================================= FUNCTIONS =================================
+# =============================================================================
+import argparse
+import os
+import re
+import tarfile
+import tempfile
+import shlex
+import subprocess
+from pathlib import Path
+from subprocess import Popen, PIPE, DEVNULL
+
+
+def is_valid_host():
+    """Checks to make sure we're running on a 201 lab machine"""
+    hostname = subprocess.run("hostname", capture_output=True)
+
+    if hostname.returncode != 0:
+        print("Unexpected error when looking for hostname")
+        return False
+
+    hostname = hostname.stdout.decode(encoding="UTF-8").strip()
+
+    return re.fullmatch("ug[0-9]{2}", hostname) or "ohaton" == hostname
+
+
+def check_required_files(d):
+    for f in REQUIRED_FILES:
+        p = Path(f"{d}/{f}")
+
+        if not p.is_file():
+            print(f"File {f} missing from submission")
+            exit(1)
+
+
+def compile(c, o):
+    return (
+        subprocess.run(
+            shlex.split(f"gcc -Werror -Wall -std=c99 {c} -o {o}")
+        ).returncode
+        == 0
+    )
+
+
+def compile_all_files(d):
+    for i in range(1, 3):
+        if not compile(
+            f"{tmpdir}/ex{LAB_NB}q{i}.c",
+            f"{tmpdir}/ex{LAB_NB}q{i}.out",
+        ):
+            print(f"Failed to compile ex{LAB_NB}q{i}.c!")
+            exit(1)
+
+
+def run_test(executable, in_str, out_str, returncode, name):
+    ex = Popen(executable, stdin=PIPE, stdout=PIPE, stderr=DEVNULL)
+
+    try:
+        ex_stdout, errs = ex.communicate(in_str.encode("utf-8"), timeout=1)
+        ex_stdout = ex_stdout.decode("utf-8")
+    except subprocess.TimeoutExpired:
+        print(
+            f"{name} froze while running... it was killed. Make sure your program exits"
+        )
+        exit(1)
+
+    if ex.returncode != returncode:
+        print(f"{name} failed to return code {returncode} when expected")
+        exit(1)
+    elif ex_stdout != out_str:
+        print(f"Output for {name} doesn't match expected output")
+        print(
+            "Consider going back to the lab description and making sure your output matches the examples exactly"
+        )
+        exit(1)
+
+
+# =============================================================================
+# =================================== MAIN ====================================
+# =============================================================================
+parser = argparse.ArgumentParser(
+    prog=f"check",
+    description=f"Check the core essentials for lab {LAB_NB}. Get 50% if you pass!",
+)
+
+parser.add_argument(
+    "submission_tar",
+    type=Path,
+    metavar="<TAR>",
+    help=f"Path to your submit.tar for lab {LAB_NB}",
+)
+
+args = parser.parse_args()
+
+
+# Make sure it's the lab machine ====
+if not is_valid_host():
+    print(
+        "This script must be run on the undergraduate lab machines, ug01 through ug34"
+    )
+    exit(1)
+
+# Open tar ====
+with tempfile.TemporaryDirectory() as tmpdir:
+    try:
+        with tarfile.open(args.submission_tar, "r") as f:
+            f.extractall(path=tmpdir)
+    except tarfile.ReadError:
+        print(
+            f"Provided path `{args.submission_tar}` is not a readable tar file"
+        )
+        exit(1)
+
+    check_required_files(tmpdir)
+    compile_all_files(tmpdir)
+
+    # This one needs more complex checking
+    run_test(f"{tmpdir}/ex4q1.out", Q1_INPUT_1, Q1_OUTPUT_1, 0, "ex4q1.c")
+    run_test(f"{tmpdir}/ex4q1.out", Q1_INPUT_2, Q1_OUTPUT_2, 0, "ex4q1.c")
+    run_test(f"{tmpdir}/ex4q2.out", Q2_INPUT_2, Q2_OUTPUT_2, 0, "ex4q1.c")
+    run_test(f"{tmpdir}/ex4q2.out", Q2_INPUT_2, Q2_OUTPUT_2, 0, "ex4q1.c")
+
+print("Nice, you passed! You'll get at least 50% for this lab mark.")

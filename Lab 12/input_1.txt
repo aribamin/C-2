@@ -1,0 +1,5 @@
+p4 double 3.2
+p4 double 3.14
+p4 add 3.4 -2.9
+p4 add 3.14 3.14
+p4 add 30.4 -3.4

@@ -1,0 +1,182 @@
+#!/usr/bin/env python3
+# =============================================================================
+# =========================== ENVIRONMENT VARIABLES ===========================
+# =============================================================================
+LAB_NB = 6
+
+REQUIRED_FILES = [
+    "ex6q1.c",
+    "ex6q1.h",
+    "ex6q2.c",
+    "ex6q2.h",
+    "ex6q2_test.o",
+    "ex6q2_report.txt",
+]
+
+Q1_INPUT_1 = """\
+234 130 77
+"""
+
+Q1_INPUT_2 = """\
+7 132343203 9
+"""
+
+Q2_INPUT_1 = """\
+3 4 1 9 2 3 9 5 3 5 2 1 0 0 0 2 8 9 5 1 7 7 9 3 3 4 8 6 1 9 3 0 6 7 5 4 8 7 9
+"""
+
+Q2_OUTPUT_1 = """\
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 6 6 7 7 7 7 8 8 8 9 9 9 9 9 9
+"""
+
+# =============================================================================
+# ================================= FUNCTIONS =================================
+# =============================================================================
+import argparse
+import os
+import re
+import tarfile
+import tempfile
+import shlex
+import subprocess
+from pathlib import Path
+from subprocess import Popen, PIPE, DEVNULL
+
+
+def is_valid_host():
+    """Checks to make sure we're running on a 201 lab machine"""
+    hostname = subprocess.run("hostname", capture_output=True)
+
+    if hostname.returncode != 0:
+        print("Unexpected error when looking for hostname")
+        return False
+
+    hostname = hostname.stdout.decode(encoding="UTF-8").strip()
+
+    return re.fullmatch("ug[0-9]{2}", hostname) or (hostname in ["ohaton", "coronation", "innisfree"])
+
+
+def check_required_files(d):
+    for f in REQUIRED_FILES:
+        p = Path(f"{d}/{f}")
+
+        if not p.is_file():
+            print(f"File {f} missing from submission")
+            exit(1)
+
+
+def compile(l, o):
+    s = ""
+    for x in l:
+        s += f"{x} "
+
+    return (
+        subprocess.run(shlex.split(f"gcc -Werror -Wall -std=c99 {s} -o {o}")).returncode
+        == 0
+    )
+
+
+def run_test_1(executable, in_str, returncode, name):
+    ex = Popen(executable, stdin=PIPE, stdout=PIPE, stderr=DEVNULL)
+
+    try:
+        ex_stdout, errs = ex.communicate(in_str.encode("utf-8"), timeout=10)
+        ex_stdout = ex_stdout.decode("utf-8")
+    except subprocess.TimeoutExpired:
+        print(
+            f"{name} froze while running... it was killed. Make sure your program exits"
+        )
+        exit(1)
+
+    if ex.returncode != returncode:
+        print(f"{name} failed to return code {returncode} when expected")
+        exit(1)
+    elif ex_stdout[-1] != "\n":
+        print("Missing new line at the end of output for ex6q1")
+        exit(1)
+
+    RE_LINE_1 = re.compile("exp_mod_1 calls: ([0-9]+)")
+    RE_LINE_2 = re.compile("exp_mod_2 calls: ([0-9]+)")
+    RE_LINE_3 = re.compile("67 == 67")
+
+    ex_stdlist = ex_stdout.split("\n")
+
+    if not RE_LINE_1.fullmatch(ex_stdlist[0]):
+        print("Output for line 1 of ex6q1 does not match the required format")
+        exit(1)
+    elif not RE_LINE_2.fullmatch(ex_stdlist[1]):
+        print("Output for line 2 of ex6q1 does not match the required format")
+        exit(1)
+    elif not RE_LINE_3.fullmatch(ex_stdlist[2]):
+        print("Double check for line 3 of ex6q1, the two numbers should be the same")
+
+
+def run_test_2(executable, returncode, name):
+    ex = Popen(executable, stdin=DEVNULL, stdout=DEVNULL, stderr=DEVNULL)
+
+    try:
+        ex.communicate(timeout=1)
+    except subprocess.TimeoutExpired:
+        print(
+            f"{name} froze while running... it was killed. Make sure your program exits"
+        )
+        exit(1)
+
+    if ex.returncode != returncode:
+        print(f"ex6q2 failed with return code {ex.returncode} (that means it didn't sort properly)")
+        exit(1)
+
+
+# =============================================================================
+# =================================== MAIN ====================================
+# =============================================================================
+parser = argparse.ArgumentParser(
+    prog=f"check",
+    description=f"Check the core essentials for lab {LAB_NB}. Get 50% if you pass!",
+)
+
+parser.add_argument(
+    "submission_tar",
+    type=Path,
+    metavar="<TAR>",
+    help=f"Path to your submit.tar for lab {LAB_NB}",
+)
+
+args = parser.parse_args()
+
+
+# Make sure it's the lab machine ====
+if not is_valid_host():
+    print(
+        "This script must be run on the undergraduate lab machines, ug01 through ug34"
+    )
+    exit(1)
+
+# Open tar ====
+with tempfile.TemporaryDirectory() as tmpdir:
+    try:
+        with tarfile.open(args.submission_tar, "r") as f:
+            f.extractall(path=tmpdir)
+    except tarfile.ReadError:
+        print(f"Provided path `{args.submission_tar}` is not a readable tar file")
+        exit(1)
+
+    check_required_files(tmpdir)
+
+    if not compile([f"{tmpdir}/ex6q1.c"], f"{tmpdir}/ex6q1.out"):
+        print(f"Failed to compile ex6q1.c!")
+        exit(1)
+
+    if not compile(
+        [f"{tmpdir}/ex6q2.c", f"{tmpdir}/ex6q2_test.o"], f"{tmpdir}/ex6q2.out"
+    ):
+        print(f"Failed to compile ex6q2.c!")
+        exit(1)
+
+    # This one needs more complex checking
+#    run_test_1(f"{tmpdir}/ex6q1.out", Q1_INPUT_1, 0, "ex6q1.c")
+    run_test_1(f"{tmpdir}/ex6q1.out", Q1_INPUT_2, 0, "ex6q1.c")
+
+    run_test_2(f"{tmpdir}/ex6q2.out", 0, "ex6q2.c")
+
+print("Nice, you passed! You'll get at least 50% for this lab mark.")

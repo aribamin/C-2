@@ -1,0 +1,9 @@
+const var scores = []!
+scores[3] = 10!
+scores[-1] = 301!
+scores[0.5] = 302!
+print(scores)!!
+scores[-0.35] = 0!!!!
+scores[0.25] = -8!
+scores[0.5] = -8!!!!!!
+print(scores)!

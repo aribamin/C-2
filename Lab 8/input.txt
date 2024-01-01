@@ -1,0 +1,1001 @@
+const var yjagmybovr = []!!
+yjagmybovr[-1] = 1970891754!
+yjagmybovr[1] = 2020841224!
+yjagmybovr[382430.7406] = 1051895635!
+yjagmybovr[2] = 1355081436!
+yjagmybovr[301962.5377] = 1233387431!
+yjagmybovr[825868.7746] = 1692317590!
+yjagmybovr[216433.4702] = 1906875348!
+print(yjagmybovr)!
+yjagmybovr[1046709.0208] = 1629309563!
+print(yjagmybovr)!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[567585.1922] = 1228558211!
+yjagmybovr[71.634] = 1190343727!
+yjagmybovr[5] = 1231408879!
+yjagmybovr[7] = 1856503167!
+yjagmybovr[60.4467] = 1708213625!
+yjagmybovr[0] = 1389636557!
+yjagmybovr[4] = 613289248!
+yjagmybovr[86.3431] = 2091781187!
+yjagmybovr[-1] = 100175439!
+yjagmybovr[-1] = 2055467483!
+print(yjagmybovr)!
+yjagmybovr[88771.4225] = 1656952511!
+print(yjagmybovr)!
+yjagmybovr[5] = 1480038699!
+print(yjagmybovr)!
+yjagmybovr[707858.2873] = 1490147217!
+yjagmybovr[49658.5372] = 2018460783!
+yjagmybovr[4] = 648548991!
+yjagmybovr[590730.5642] = 2103718289!
+print(yjagmybovr)!
+yjagmybovr[6] = 1115429579!
+yjagmybovr[818550.2963] = 505339953!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[-1] = 2055132199!
+print(yjagmybovr)!
+yjagmybovr[5] = 1133125802!
+yjagmybovr[6] = 170689662!
+yjagmybovr[28.5193] = 123997796!
+print(yjagmybovr)!
+yjagmybovr[370317.876] = 830351658!
+print(yjagmybovr)!
+yjagmybovr[213545.0082] = 297636049!
+yjagmybovr[-1] = 1360699024!
+yjagmybovr[96.6941] = 1320376448!
+yjagmybovr[695664.7245] = 1154169280!
+yjagmybovr[95.0962] = 706269594!
+print(yjagmybovr)!
+yjagmybovr[734244.9635] = 251035884!
+yjagmybovr[34.5399] = 1446219968!
+yjagmybovr[687002.3431] = 941853398!
+yjagmybovr[2] = 254331474!
+yjagmybovr[6] = 1121208189!
+yjagmybovr[0] = 740583589!
+yjagmybovr[0] = 1066624567!
+yjagmybovr[2] = 537058762!
+print(yjagmybovr)!
+yjagmybovr[0] = 1761206796!
+yjagmybovr[133696.5087] = 1287008707!
+yjagmybovr[80.5962] = 1804775217!
+yjagmybovr[25.8746] = 829593818!
+print(yjagmybovr)!
+yjagmybovr[6] = 1741250797!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[58.4933] = 1219816211!
+yjagmybovr[385594.5861] = 1609705054!
+yjagmybovr[8] = 74529848!
+yjagmybovr[4] = 914118077!
+print(yjagmybovr)!
+yjagmybovr[752348.7275] = 611170583!
+yjagmybovr[412957.4778] = 201876134!
+yjagmybovr[472893.1555] = 1650792503!
+yjagmybovr[35.2824] = 1102874299!
+yjagmybovr[8] = 1597824077!
+yjagmybovr[14.1445] = 1947216174!
+print(yjagmybovr)!
+yjagmybovr[4] = 2109935953!
+yjagmybovr[1] = 802837753!
+yjagmybovr[178724.0428] = 657980637!
+yjagmybovr[35.9897] = 2142043703!
+yjagmybovr[1] = 1211396980!
+yjagmybovr[0] = 1476112569!
+print(yjagmybovr)!
+yjagmybovr[51.2377] = 1953220621!
+yjagmybovr[833182.9616] = 501965953!
+yjagmybovr[794184.2749] = 412146514!
+yjagmybovr[733214.1849] = 803489762!
+yjagmybovr[23.6212] = 1817918471!
+print(yjagmybovr)!
+yjagmybovr[55.0421] = 1969177390!
+yjagmybovr[144291.2723] = 1685006725!
+print(yjagmybovr)!
+yjagmybovr[3] = 135433311!
+yjagmybovr[1025555.9535] = 1283462830!
+yjagmybovr[58.9294] = 485063557!
+yjagmybovr[68.0515] = 153864081!
+yjagmybovr[4] = 107363522!
+yjagmybovr[47.8195] = 1999208636!
+yjagmybovr[1] = 724393200!
+yjagmybovr[824518.0277] = 98033003!
+yjagmybovr[8] = 1135732472!
+yjagmybovr[427995.0386] = 265881224!
+yjagmybovr[6] = 45923721!
+yjagmybovr[8] = 518041037!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[5] = 1944890153!
+yjagmybovr[-1] = 1721609241!
+print(yjagmybovr)!
+yjagmybovr[5] = 2082727003!
+yjagmybovr[81.5303] = 1266239972!
+yjagmybovr[4] = 932848405!
+yjagmybovr[14.9253] = 81209192!
+yjagmybovr[7] = 1598075595!
+print(yjagmybovr)!
+yjagmybovr[6] = 340580641!
+yjagmybovr[8] = 341808622!
+yjagmybovr[3] = 1986791365!
+yjagmybovr[7] = 716204984!
+yjagmybovr[1] = 98832827!
+yjagmybovr[314312.0357] = 1226121653!
+yjagmybovr[955790.3421] = 225036053!
+yjagmybovr[-1] = 365692331!
+yjagmybovr[8] = 282683798!
+yjagmybovr[4] = 1259375410!
+yjagmybovr[78.995] = 655517137!
+print(yjagmybovr)!
+yjagmybovr[1015141.2903] = 2021326710!
+yjagmybovr[16.8086] = 709221898!
+yjagmybovr[475456.692] = 486016140!
+yjagmybovr[7] = 2041263120!
+yjagmybovr[4] = 2104446139!
+yjagmybovr[560581.3237] = 617763917!
+yjagmybovr[79.5167] = 1996428535!
+print(yjagmybovr)!
+yjagmybovr[16.2582] = 1766376978!
+yjagmybovr[82558.7555] = 2016001575!
+yjagmybovr[255805.7378] = 757335700!
+yjagmybovr[83.4858] = 239858783!
+yjagmybovr[8] = 1125748931!
+yjagmybovr[63.7424] = 1709883140!
+yjagmybovr[60.1764] = 715056682!
+print(yjagmybovr)!
+yjagmybovr[1.5954] = 1175471610!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[-1] = 1579345929!
+yjagmybovr[34424.9382] = 2040177959!
+yjagmybovr[592805.4213] = 332867899!
+yjagmybovr[1] = 945528990!
+yjagmybovr[0] = 547399818!
+print(yjagmybovr)!
+yjagmybovr[34.1521] = 1069052021!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[652134.2504] = 1980523334!
+yjagmybovr[815830.4547] = 283325317!
+yjagmybovr[80.7829] = 561603394!
+yjagmybovr[5] = 901926803!
+yjagmybovr[1006767.9147] = 1893968434!
+yjagmybovr[53209.1024] = 309189385!
+yjagmybovr[6] = 1425202359!
+print(yjagmybovr)!
+yjagmybovr[4] = 1768178930!
+print(yjagmybovr)!
+yjagmybovr[565589.7036] = 1769636083!
+yjagmybovr[192593.0647] = 1291866916!
+yjagmybovr[2] = 1750226978!
+yjagmybovr[95.0127] = 1696286276!
+yjagmybovr[6] = 272629817!
+yjagmybovr[0] = 1488789824!
+yjagmybovr[297831.342] = 1562328202!
+yjagmybovr[1] = 373106009!
+yjagmybovr[817623.0179] = 1023524122!
+yjagmybovr[71443.8121] = 1645342199!
+yjagmybovr[2] = 1022554027!
+print(yjagmybovr)!
+yjagmybovr[84.7885] = 1533666025!
+print(yjagmybovr)!
+yjagmybovr[23.81] = 1348768108!
+yjagmybovr[378817.5746] = 1691907084!
+yjagmybovr[1000502.0863] = 728795230!
+print(yjagmybovr)!
+yjagmybovr[1] = 322276774!
+yjagmybovr[48944.2031] = 1861485935!
+yjagmybovr[24.2841] = 159048083!
+print(yjagmybovr)!
+yjagmybovr[60.4762] = 2054362149!
+yjagmybovr[315356.8394] = 764883632!
+yjagmybovr[75.3943] = 183020144!
+print(yjagmybovr)!
+yjagmybovr[-1] = 20251331!
+yjagmybovr[5] = 2073628577!
+yjagmybovr[1010107.7159] = 1613542451!
+yjagmybovr[6] = 1669951592!
+yjagmybovr[8.1587] = 1012979168!
+yjagmybovr[6] = 1364625536!
+yjagmybovr[7] = 1149269700!
+yjagmybovr[77202.5519] = 1644034216!
+print(yjagmybovr)!
+yjagmybovr[786475.1438] = 469596624!
+yjagmybovr[83.2563] = 523511772!
+yjagmybovr[381001.4364] = 1347384977!
+yjagmybovr[883868.2391] = 490126419!
+yjagmybovr[8] = 2116517306!
+yjagmybovr[8] = 147684073!
+yjagmybovr[4] = 976056187!
+print(yjagmybovr)!
+yjagmybovr[7] = 83772567!
+yjagmybovr[2] = 1919663042!
+yjagmybovr[1] = 1235287548!
+yjagmybovr[7] = 1831514756!
+yjagmybovr[303993.0189] = 1470467928!
+yjagmybovr[7] = 1766639652!
+yjagmybovr[6] = 1367970049!
+yjagmybovr[0] = 899863719!
+yjagmybovr[490855.8008] = 883371006!
+yjagmybovr[4] = 302367879!
+yjagmybovr[28.7247] = 531070339!
+yjagmybovr[199140.2636] = 697883037!
+yjagmybovr[5] = 182274080!
+yjagmybovr[22.9877] = 1850922141!
+yjagmybovr[546243.1133] = 1404056993!
+yjagmybovr[1] = 1892773949!
+yjagmybovr[74.9589] = 1030043862!
+yjagmybovr[13.4683] = 1043821145!
+yjagmybovr[1] = 110040416!
+yjagmybovr[5] = 2010853227!
+yjagmybovr[0] = 2004862032!
+yjagmybovr[5] = 1562555916!
+print(yjagmybovr)!
+yjagmybovr[7] = 696119689!
+yjagmybovr[25.9227] = 1576818098!
+yjagmybovr[6] = 1240846219!
+yjagmybovr[549773.8346] = 336360132!
+yjagmybovr[789508.4135] = 434461311!
+yjagmybovr[393499.9318] = 1367599382!
+yjagmybovr[893946.7557] = 1819213623!
+yjagmybovr[5] = 2064337282!
+yjagmybovr[839077.6027] = 1916462417!
+yjagmybovr[5] = 414721283!
+yjagmybovr[66.0296] = 725541319!
+yjagmybovr[210167.5427] = 55391684!
+yjagmybovr[5] = 1852635254!
+yjagmybovr[8] = 1504126678!
+yjagmybovr[45.6296] = 1345603273!
+print(yjagmybovr)!
+yjagmybovr[1001941.3469] = 1963974973!
+yjagmybovr[222152.4948] = 443240210!
+yjagmybovr[2] = 1498051116!
+yjagmybovr[104165.1453] = 435336267!
+yjagmybovr[7] = 1219046299!
+yjagmybovr[47.0988] = 1172069121!
+print(yjagmybovr)!
+yjagmybovr[3] = 957377385!
+print(yjagmybovr)!
+yjagmybovr[32.4672] = 913087783!
+print(yjagmybovr)!
+yjagmybovr[800720.8422] = 943159403!
+yjagmybovr[13.5203] = 253223438!
+yjagmybovr[56.3273] = 1503966113!
+yjagmybovr[-1] = 1276122073!
+print(yjagmybovr)!
+yjagmybovr[6] = 1525905592!
+yjagmybovr[45.2503] = 1114300910!
+yjagmybovr[2] = 927556825!
+yjagmybovr[801014.4734] = 752241767!
+yjagmybovr[7] = 937901919!
+yjagmybovr[8] = 2041778534!
+yjagmybovr[0] = 1500384837!
+yjagmybovr[67.4116] = 1321024381!
+print(yjagmybovr)!
+yjagmybovr[119502.0834] = 1204826385!
+yjagmybovr[29.304] = 1516074992!
+yjagmybovr[268774.9484] = 814249871!
+yjagmybovr[4] = 1914870357!
+yjagmybovr[689554.5369] = 245130876!
+yjagmybovr[5] = 547400802!
+yjagmybovr[6] = 1244813547!
+yjagmybovr[53859.0483] = 1910095201!
+print(yjagmybovr)!
+yjagmybovr[1045336.3713] = 1536702125!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[6] = 1838942095!
+yjagmybovr[679755.5203] = 893966445!
+yjagmybovr[404841.0526] = 1263818330!
+print(yjagmybovr)!
+yjagmybovr[906181.8072] = 1911256334!
+yjagmybovr[-1] = 1290629765!
+yjagmybovr[1] = 875336772!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[771012.8325] = 652930655!
+yjagmybovr[834250.821] = 1635968078!
+yjagmybovr[966506.505] = 1025390890!
+yjagmybovr[7] = 1278495698!
+yjagmybovr[0] = 1935943279!
+yjagmybovr[-1] = 803111324!
+print(yjagmybovr)!
+yjagmybovr[72.6552] = 727149335!
+yjagmybovr[1] = 1311941978!
+yjagmybovr[2] = 1938204443!
+print(yjagmybovr)!
+yjagmybovr[7] = 1963230133!
+yjagmybovr[542227.466] = 1728296063!
+yjagmybovr[79.2373] = 903421525!
+yjagmybovr[7.3623] = 1777632474!
+yjagmybovr[4.2359] = 997872233!
+yjagmybovr[205526.5903] = 707961640!
+print(yjagmybovr)!
+yjagmybovr[37.8611] = 1219403129!
+yjagmybovr[571120.257] = 476152710!
+yjagmybovr[49.3793] = 1714550059!
+yjagmybovr[909691.1253] = 2083420156!
+print(yjagmybovr)!
+yjagmybovr[61.6755] = 1680463155!
+yjagmybovr[-1] = 340990244!
+yjagmybovr[465083.9732] = 2129644584!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[609169.9231] = 305392655!
+yjagmybovr[870835.3259] = 2122421597!
+yjagmybovr[7] = 1553296498!
+yjagmybovr[18.5348] = 828879454!
+print(yjagmybovr)!
+yjagmybovr[985497.3931] = 193485612!
+yjagmybovr[3] = 1027979533!
+print(yjagmybovr)!
+yjagmybovr[29.2292] = 1465985821!
+yjagmybovr[4] = 19523652!
+print(yjagmybovr)!
+yjagmybovr[2] = 582314450!
+yjagmybovr[0] = 1968872503!
+yjagmybovr[100921.3984] = 886356995!
+yjagmybovr[78.9595] = 2032767907!
+yjagmybovr[81.009] = 1682450187!
+yjagmybovr[0] = 956308685!
+yjagmybovr[2.9704] = 489423376!
+yjagmybovr[477597.7246] = 2122839477!
+yjagmybovr[-1] = 774925662!
+yjagmybovr[60.3403] = 175868827!
+yjagmybovr[778152.1453] = 1222228974!
+yjagmybovr[95.7717] = 922628739!
+yjagmybovr[71.5252] = 281243855!
+yjagmybovr[168028.9658] = 922835161!
+yjagmybovr[7] = 476564556!
+print(yjagmybovr)!
+yjagmybovr[530391.9854] = 681325294!
+yjagmybovr[935847.2241] = 702753001!
+yjagmybovr[997093.6577] = 2003040274!
+yjagmybovr[69.8512] = 946755344!
+yjagmybovr[0.8259] = 1358427841!
+yjagmybovr[17.4737] = 994849792!
+yjagmybovr[57.046] = 520199853!
+yjagmybovr[1] = 375092!
+yjagmybovr[979912.4136] = 598438330!
+yjagmybovr[992540.0103] = 612455139!
+yjagmybovr[75.9983] = 1472041279!
+print(yjagmybovr)!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[94.368] = 1134456949!
+yjagmybovr[2] = 1728815781!
+yjagmybovr[5] = 418180031!
+yjagmybovr[347995.6819] = 1850998391!
+yjagmybovr[8] = 39587615!
+yjagmybovr[4] = 1366662368!
+print(yjagmybovr)!
+yjagmybovr[8] = 1057701096!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[0] = 894665542!
+yjagmybovr[28.4845] = 1036621036!
+yjagmybovr[354756.0289] = 2095402736!
+yjagmybovr[8.8001] = 2048205932!
+print(yjagmybovr)!
+yjagmybovr[645615.7882] = 1426847418!
+yjagmybovr[487787.7649] = 1290628952!
+yjagmybovr[49463.7658] = 347576595!
+yjagmybovr[4] = 133474974!
+yjagmybovr[26.0851] = 339645715!
+yjagmybovr[7] = 1127623483!
+yjagmybovr[8] = 1894122629!
+yjagmybovr[5] = 724191536!
+yjagmybovr[54.7637] = 423255186!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[18493.2952] = 1680215569!
+yjagmybovr[72.393] = 1752992977!
+yjagmybovr[4.3277] = 1835896830!
+yjagmybovr[2] = 1550320034!
+yjagmybovr[490614.8317] = 1117584246!
+yjagmybovr[23.8666] = 1480324058!
+yjagmybovr[29228.6326] = 1026703504!
+yjagmybovr[5] = 1252763875!
+yjagmybovr[1] = 1060679595!
+yjagmybovr[5.2929] = 476159956!
+yjagmybovr[5] = 633455499!
+print(yjagmybovr)!
+yjagmybovr[4] = 1975191678!
+yjagmybovr[265312.3969] = 192572177!
+print(yjagmybovr)!
+yjagmybovr[5] = 1191609024!
+print(yjagmybovr)!
+yjagmybovr[2] = 1964286280!
+yjagmybovr[191904.2916] = 1643609234!
+print(yjagmybovr)!
+yjagmybovr[15.3125] = 627779888!
+yjagmybovr[1] = 1833519020!
+yjagmybovr[494692.6788] = 1792718116!
+yjagmybovr[19.4812] = 1121386976!
+yjagmybovr[6] = 1467530850!
+yjagmybovr[1042361.8777] = 576773606!
+print(yjagmybovr)!
+yjagmybovr[142650.5131] = 915741616!
+yjagmybovr[7] = 1690535416!
+yjagmybovr[353976.7834] = 558742301!
+yjagmybovr[-1] = 316388091!
+yjagmybovr[603097.1165] = 1629675284!
+yjagmybovr[6] = 1420014888!
+print(yjagmybovr)!
+yjagmybovr[557584.6814] = 1621679104!
+yjagmybovr[143793.1813] = 1776649204!
+print(yjagmybovr)!
+yjagmybovr[60.636] = 316179231!
+print(yjagmybovr)!
+yjagmybovr[0] = 1000743847!
+yjagmybovr[1] = 289809249!
+yjagmybovr[0] = 1431696825!
+yjagmybovr[65.7632] = 1477884039!
+yjagmybovr[152357.7243] = 1485679070!
+yjagmybovr[7] = 1475555092!
+yjagmybovr[5] = 1747866499!
+yjagmybovr[4] = 1075056674!
+yjagmybovr[4] = 2069798084!
+print(yjagmybovr)!
+yjagmybovr[4] = 870385218!
+yjagmybovr[498495.5812] = 1100156138!
+yjagmybovr[1] = 103080927!
+yjagmybovr[13.4685] = 40983489!
+print(yjagmybovr)!
+yjagmybovr[1] = 65424716!
+yjagmybovr[99.7217] = 1106347924!
+yjagmybovr[5] = 578897533!
+print(yjagmybovr)!
+yjagmybovr[472938.3786] = 653974264!
+yjagmybovr[154063.4778] = 1972876543!
+yjagmybovr[66.9542] = 104119300!
+yjagmybovr[439847.7534] = 978059990!
+yjagmybovr[892151.5701] = 1963311654!
+yjagmybovr[99230.99] = 1742378491!
+yjagmybovr[281961.0384] = 1274532971!
+yjagmybovr[0] = 1860830441!
+yjagmybovr[2] = 2048832669!
+yjagmybovr[38.0915] = 1285850023!
+yjagmybovr[2] = 287037582!
+print(yjagmybovr)!
+yjagmybovr[906609.0007] = 1486477448!
+yjagmybovr[0] = 1189679014!
+yjagmybovr[1] = 778179742!
+yjagmybovr[51.5763] = 2131437660!
+yjagmybovr[3] = 370158423!
+yjagmybovr[8] = 1628630112!
+yjagmybovr[970690.5009] = 1026244381!
+print(yjagmybovr)!
+yjagmybovr[4] = 456173419!
+yjagmybovr[0] = 1275063445!
+yjagmybovr[8] = 200504878!
+yjagmybovr[2] = 1644878546!
+yjagmybovr[3] = 1191860616!
+yjagmybovr[13.2115] = 278931518!
+yjagmybovr[2] = 1546321683!
+yjagmybovr[-1] = 1253268052!
+yjagmybovr[83.2946] = 1796234082!
+yjagmybovr[8.1673] = 34812439!
+yjagmybovr[516233.0057] = 224613062!
+yjagmybovr[7] = 2145205572!
+print(yjagmybovr)!
+yjagmybovr[588733.984] = 888077254!
+yjagmybovr[175879.3034] = 1585125536!
+yjagmybovr[1] = 1955936088!
+print(yjagmybovr)!
+yjagmybovr[33.4872] = 1322856982!
+yjagmybovr[1] = 1001474251!
+yjagmybovr[347769.7236] = 1603377017!
+yjagmybovr[7] = 1895390196!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[2] = 1122092406!
+print(yjagmybovr)!
+yjagmybovr[3] = 422103281!
+yjagmybovr[19.0252] = 134392087!
+yjagmybovr[8] = 514136502!
+yjagmybovr[84.538] = 1195012878!
+yjagmybovr[275644.4241] = 369944316!
+yjagmybovr[53158.3626] = 1469755071!
+yjagmybovr[68.6456] = 260430336!
+yjagmybovr[22.802] = 5297767!
+yjagmybovr[7] = 1804584812!
+print(yjagmybovr)!
+yjagmybovr[723575.9493] = 617080340!
+yjagmybovr[235238.1471] = 142086114!
+yjagmybovr[270422.6385] = 1962618517!
+yjagmybovr[7.1064] = 1717599761!
+print(yjagmybovr)!
+yjagmybovr[12942.0868] = 1629556945!
+print(yjagmybovr)!
+yjagmybovr[627578.4396] = 585921299!
+yjagmybovr[13.4826] = 2006024705!
+print(yjagmybovr)!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[93.5726] = 870649363!
+yjagmybovr[1] = 1364375766!
+yjagmybovr[0] = 1168630520!
+yjagmybovr[15805.2695] = 1228475033!
+print(yjagmybovr)!
+yjagmybovr[5] = 1249852551!
+yjagmybovr[64178.6945] = 1141361348!
+yjagmybovr[59.0682] = 1407452368!
+yjagmybovr[130567.7022] = 121597306!
+yjagmybovr[49.7334] = 1322896047!
+yjagmybovr[524268.9903] = 1559935735!
+yjagmybovr[1027704.1481] = 506294621!
+print(yjagmybovr)!
+yjagmybovr[549079.4935] = 1717183568!
+yjagmybovr[4] = 670817254!
+yjagmybovr[249733.7059] = 104185782!
+yjagmybovr[3] = 1601624938!
+yjagmybovr[91.7365] = 990850950!
+yjagmybovr[902603.7849] = 1551703490!
+yjagmybovr[514236.0073] = 1804945572!
+print(yjagmybovr)!
+yjagmybovr[710508.1823] = 1004557552!
+yjagmybovr[464967.2518] = 1179550582!
+print(yjagmybovr)!
+yjagmybovr[7] = 397328853!
+yjagmybovr[10.208] = 2108573234!
+yjagmybovr[736175.3197] = 397093205!
+yjagmybovr[714276.2052] = 1082319128!
+yjagmybovr[650658.2741] = 2017164133!
+yjagmybovr[837069.0869] = 1146545445!
+yjagmybovr[2] = 2129963150!
+print(yjagmybovr)!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[4] = 2011141405!
+yjagmybovr[42.7474] = 1852679231!
+yjagmybovr[1037462.4071] = 1208371090!
+yjagmybovr[86.5283] = 862201969!
+yjagmybovr[877615.3168] = 478406282!
+yjagmybovr[6] = 595693883!
+yjagmybovr[5] = 21571717!
+print(yjagmybovr)!
+yjagmybovr[7] = 1101608954!
+yjagmybovr[3] = 526610218!
+print(yjagmybovr)!
+yjagmybovr[5] = 1468269338!
+yjagmybovr[82.7031] = 1268416166!
+yjagmybovr[8.389] = 877555496!
+yjagmybovr[4] = 324912863!
+yjagmybovr[848831.9748] = 1708453938!
+yjagmybovr[17.9433] = 985228486!
+yjagmybovr[973335.4642] = 651756605!
+yjagmybovr[4] = 396471332!
+print(yjagmybovr)!
+yjagmybovr[145736.1103] = 1685412897!
+yjagmybovr[5] = 16236617!
+yjagmybovr[984330.8821] = 1109534833!
+yjagmybovr[-1] = 749829915!
+yjagmybovr[716365.3039] = 1466263689!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[8] = 1230156938!
+yjagmybovr[2] = 1525006677!
+yjagmybovr[2] = 1445461264!
+yjagmybovr[7] = 847311777!
+yjagmybovr[8] = 895696689!
+yjagmybovr[6] = 200554723!
+yjagmybovr[901182.046] = 1205830379!
+yjagmybovr[3] = 1199401695!
+print(yjagmybovr)!
+yjagmybovr[1] = 870517298!
+print(yjagmybovr)!
+yjagmybovr[29.048] = 382697111!
+yjagmybovr[777294.1763] = 1994481559!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[0] = 2050189829!
+yjagmybovr[725416.359] = 682827547!
+print(yjagmybovr)!
+yjagmybovr[494813.0501] = 1575160376!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[4] = 644932342!
+print(yjagmybovr)!
+yjagmybovr[1004151.8949] = 535059795!
+print(yjagmybovr)!
+yjagmybovr[0] = 1172875252!
+yjagmybovr[-1] = 7432674!
+yjagmybovr[621220.1844] = 990716384!
+yjagmybovr[0] = 291023417!
+yjagmybovr[95.27] = 1589509689!
+yjagmybovr[62.2569] = 232611129!
+yjagmybovr[269557.4758] = 764908218!
+yjagmybovr[295418.1542] = 997991830!
+yjagmybovr[489894.3055] = 1785466458!
+yjagmybovr[53.5982] = 995960265!
+yjagmybovr[-1] = 190912356!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[80.9406] = 1150694309!
+print(yjagmybovr)!
+yjagmybovr[247526.8995] = 2046931927!
+yjagmybovr[16.9609] = 2089290162!
+yjagmybovr[6] = 88456989!
+yjagmybovr[19.9485] = 611806301!
+yjagmybovr[1] = 1909769061!
+yjagmybovr[469880.2305] = 1854167733!
+print(yjagmybovr)!
+yjagmybovr[4] = 1274838058!
+print(yjagmybovr)!
+yjagmybovr[4] = 1606565886!
+yjagmybovr[99.2036] = 1305944762!
+yjagmybovr[409805.5384] = 313440693!
+yjagmybovr[4] = 656149861!
+yjagmybovr[270073.0484] = 1909660900!
+yjagmybovr[1] = 628384691!
+yjagmybovr[67.822] = 2106405173!
+yjagmybovr[1025841.4277] = 1714972759!
+print(yjagmybovr)!
+yjagmybovr[1] = 1267169330!
+yjagmybovr[7] = 1871286715!
+print(yjagmybovr)!
+yjagmybovr[1] = 2029814858!
+yjagmybovr[0] = 251549499!
+yjagmybovr[948745.8371] = 517644744!
+yjagmybovr[95.3718] = 380537427!
+yjagmybovr[910272.1813] = 1895896437!
+yjagmybovr[794597.9533] = 806358920!
+yjagmybovr[0] = 1440917482!
+yjagmybovr[1012525.1969] = 1703985481!
+yjagmybovr[46.4624] = 1801140131!
+yjagmybovr[38.5848] = 1452996480!
+yjagmybovr[54.5197] = 1295724780!
+yjagmybovr[93.8035] = 787588360!
+print(yjagmybovr)!
+yjagmybovr[496377.8643] = 507712863!
+yjagmybovr[3] = 1027118579!
+yjagmybovr[-1] = 728542045!
+yjagmybovr[8] = 529635839!
+print(yjagmybovr)!
+yjagmybovr[7] = 945201851!
+print(yjagmybovr)!
+yjagmybovr[276806.1747] = 2059222409!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[686117.8277] = 951694791!
+yjagmybovr[16789.2143] = 1998579738!
+yjagmybovr[6] = 1426687688!
+yjagmybovr[4] = 487554888!
+yjagmybovr[0] = 1401280594!
+yjagmybovr[0] = 15307160!
+print(yjagmybovr)!
+yjagmybovr[5] = 1370103823!
+yjagmybovr[2] = 695010535!
+print(yjagmybovr)!
+yjagmybovr[7] = 632976738!
+yjagmybovr[34250.6066] = 89950076!
+yjagmybovr[189516.036] = 1147644340!
+print(yjagmybovr)!
+yjagmybovr[-1] = 23477544!
+yjagmybovr[86.3769] = 1899060011!
+yjagmybovr[1] = 1368872597!
+yjagmybovr[4] = 2042348874!
+yjagmybovr[371612.4625] = 1189318800!
+yjagmybovr[6] = 502188179!
+yjagmybovr[-1] = 1917894956!
+print(yjagmybovr)!
+yjagmybovr[442780.6374] = 372285312!
+yjagmybovr[16.2583] = 1865033955!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[2] = 1431503199!
+yjagmybovr[43.0851] = 129107321!
+yjagmybovr[683032.4481] = 674399721!
+print(yjagmybovr)!
+yjagmybovr[653163.8287] = 1697867648!
+yjagmybovr[58.9692] = 1261424541!
+print(yjagmybovr)!
+yjagmybovr[758316.2217] = 1502117943!
+yjagmybovr[37.0752] = 1247002290!
+yjagmybovr[0] = 1716782636!
+yjagmybovr[7] = 671610802!
+yjagmybovr[42.748] = 1936725860!
+yjagmybovr[1] = 314326209!
+yjagmybovr[333685.6285] = 1567352681!
+yjagmybovr[19.5949] = 2039172598!
+yjagmybovr[25.5591] = 1286667337!
+yjagmybovr[682967.7043] = 464121981!
+yjagmybovr[992927.5506] = 1850055051!
+yjagmybovr[-1] = 1869156645!
+yjagmybovr[1] = 925806080!
+yjagmybovr[33.436] = 1443433867!
+yjagmybovr[77.2066] = 314727027!
+yjagmybovr[8.4254] = 305708261!
+yjagmybovr[87.9233] = 1013971463!
+yjagmybovr[28.3619] = 242455896!
+yjagmybovr[8] = 1260113021!
+yjagmybovr[0] = 71232397!
+yjagmybovr[152740.7474] = 841042416!
+print(yjagmybovr)!
+yjagmybovr[0] = 1548653!
+yjagmybovr[60.1148] = 592537849!
+yjagmybovr[20124.6007] = 1718654153!
+yjagmybovr[609940.8273] = 1429156826!
+print(yjagmybovr)!
+yjagmybovr[7] = 1298203073!
+yjagmybovr[739998.5947] = 1357083682!
+print(yjagmybovr)!
+yjagmybovr[3] = 1550011386!
+print(yjagmybovr)!
+yjagmybovr[0] = 1006709340!
+yjagmybovr[28.1829] = 1581712893!
+yjagmybovr[4] = 1770092369!
+yjagmybovr[79.7365] = 1131172904!
+yjagmybovr[1] = 734656271!
+yjagmybovr[6] = 483249334!
+yjagmybovr[1024398.8812] = 1052332803!
+yjagmybovr[53.3384] = 1188072486!
+yjagmybovr[363150.77] = 559004164!
+yjagmybovr[7.8381] = 1521848828!
+yjagmybovr[676054.7677] = 675073499!
+yjagmybovr[52545.7609] = 1745632298!
+yjagmybovr[33.3288] = 712380965!
+yjagmybovr[-1] = 1363823662!
+yjagmybovr[627145.8155] = 1539042073!
+yjagmybovr[870564.1832] = 1273267513!
+yjagmybovr[237659.0133] = 1894920240!
+yjagmybovr[857670.448] = 139122277!
+yjagmybovr[882646.0474] = 1319950171!
+yjagmybovr[7] = 438137789!
+yjagmybovr[7] = 1918450050!
+yjagmybovr[47.2776] = 729078152!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[6] = 898045136!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[56.5218] = 1769286998!
+yjagmybovr[217980.0917] = 1895586866!
+yjagmybovr[516219.1926] = 14824766!
+yjagmybovr[3] = 869850514!
+yjagmybovr[69.4819] = 824124914!
+yjagmybovr[14.6695] = 1369923187!
+yjagmybovr[1] = 478273450!
+print(yjagmybovr)!
+yjagmybovr[6] = 1245288794!
+yjagmybovr[16857.6976] = 1349178595!
+yjagmybovr[225769.9007] = 267235734!
+yjagmybovr[-1] = 1340971473!
+yjagmybovr[-1] = 439768259!
+yjagmybovr[116323.3877] = 485008473!
+print(yjagmybovr)!
+yjagmybovr[612136.3969] = 1052398488!
+print(yjagmybovr)!
+yjagmybovr[32.6786] = 1128245846!
+yjagmybovr[5] = 1486672930!
+print(yjagmybovr)!
+yjagmybovr[4] = 1764939131!
+yjagmybovr[4] = 2032928621!
+print(yjagmybovr)!
+yjagmybovr[1008808.7487] = 1654529089!
+print(yjagmybovr)!
+yjagmybovr[4] = 1933306501!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[7] = 554133490!
+yjagmybovr[156146.0455] = 1179801826!
+yjagmybovr[466459.5808] = 1663836723!
+yjagmybovr[-1] = 1001114891!
+yjagmybovr[10.3506] = 196672237!
+yjagmybovr[44.2705] = 90767806!
+yjagmybovr[96154.8793] = 190891033!
+yjagmybovr[7] = 802248504!
+yjagmybovr[-1] = 872046598!
+yjagmybovr[86.2759] = 286591174!
+yjagmybovr[37.1825] = 787237206!
+yjagmybovr[86.9576] = 1166647734!
+yjagmybovr[292711.825] = 145490714!
+yjagmybovr[5] = 1867601856!
+print(yjagmybovr)!
+yjagmybovr[854990.5108] = 1419389671!
+yjagmybovr[54.7466] = 386290174!
+yjagmybovr[738298.5146] = 1113284161!
+yjagmybovr[5] = 1561190920!
+print(yjagmybovr)!
+yjagmybovr[7] = 944249261!
+yjagmybovr[82.8967] = 1798056430!
+yjagmybovr[4] = 1823918763!
+yjagmybovr[30.2294] = 1710400468!
+yjagmybovr[198579.0468] = 245094225!
+yjagmybovr[7] = 1658580763!
+yjagmybovr[526982.4006] = 1820146957!
+yjagmybovr[7] = 2010360556!
+yjagmybovr[27.2439] = 1197902142!
+yjagmybovr[-1] = 1172160373!
+yjagmybovr[-1] = 827723625!
+yjagmybovr[85.7995] = 859740522!
+yjagmybovr[24.3141] = 1594032752!
+yjagmybovr[319034.4219] = 972357577!
+yjagmybovr[1] = 1933809989!
+yjagmybovr[445931.2004] = 1377329250!
+yjagmybovr[2] = 809010422!
+yjagmybovr[600481.0695] = 2033493446!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[958397.6306] = 931209458!
+yjagmybovr[241669.4828] = 666699952!
+yjagmybovr[529060.7144] = 1674278291!
+yjagmybovr[580960.391] = 1185045639!
+print(yjagmybovr)!
+yjagmybovr[884753.2042] = 421759836!
+yjagmybovr[7] = 1080297483!
+yjagmybovr[284450.6572] = 126659625!
+yjagmybovr[306768.2158] = 1157874679!
+yjagmybovr[6] = 1278540972!
+yjagmybovr[547255.3969] = 210165068!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[7] = 757266043!
+print(yjagmybovr)!
+yjagmybovr[4] = 1215281692!
+yjagmybovr[55.5531] = 1930269268!
+yjagmybovr[7] = 601485794!
+yjagmybovr[381908.6634] = 907293130!
+yjagmybovr[881544.773] = 1312017198!
+yjagmybovr[0] = 208471892!
+yjagmybovr[-1] = 360639126!
+yjagmybovr[94.443] = 305113453!
+yjagmybovr[86.3715] = 298901516!
+yjagmybovr[7] = 845988863!
+yjagmybovr[5] = 1838132671!
+yjagmybovr[804538.6576] = 908965218!
+print(yjagmybovr)!
+yjagmybovr[114295.1543] = 1896573352!
+yjagmybovr[991704.417] = 1127726070!
+yjagmybovr[51.6906] = 668610323!
+yjagmybovr[107092.1775] = 1194544477!
+yjagmybovr[8] = 1915994788!
+print(yjagmybovr)!
+yjagmybovr[576096.1698] = 1458706600!
+yjagmybovr[6] = 1196695113!
+yjagmybovr[-1] = 554205205!
+print(yjagmybovr)!
+yjagmybovr[896480.8167] = 1578486894!
+yjagmybovr[863966.0504] = 2001272148!
+print(yjagmybovr)!
+yjagmybovr[2] = 1478167869!
+yjagmybovr[263546.3171] = 488150836!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[759718.8344] = 1456500581!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[52.0349] = 1996289342!
+print(yjagmybovr)!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[2] = 2055844681!
+yjagmybovr[5] = 1256469021!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[347880.2637] = 1329020939!
+yjagmybovr[94.7566] = 1076766359!
+yjagmybovr[0] = 1399079565!
+yjagmybovr[220349.1456] = 348640843!
+yjagmybovr[507953.5327] = 1425417110!
+print(yjagmybovr)!
+yjagmybovr[97.3724] = 1851514465!
+print(yjagmybovr)!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[486600.406] = 1469180753!
+yjagmybovr[940244.8115] = 1354688961!
+yjagmybovr[46.5865] = 1420255524!
+yjagmybovr[6] = 1244392285!
+print(yjagmybovr)!
+yjagmybovr[0] = 1945774688!
+yjagmybovr[3] = 777374868!
+print(yjagmybovr)!
+yjagmybovr[7] = 2003535328!
+yjagmybovr[6] = 1306625235!
+print(yjagmybovr)!
+yjagmybovr[3] = 1895398011!
+yjagmybovr[6] = 1830045002!
+yjagmybovr[7.6099] = 328259628!
+print(yjagmybovr)!
+yjagmybovr[260016.6756] = 836064462!
+print(yjagmybovr)!
+yjagmybovr[17.7175] = 1324696865!
+yjagmybovr[40823.6002] = 1752661923!
+yjagmybovr[805177.4127] = 1609867887!
+yjagmybovr[33.5807] = 1573593233!
+yjagmybovr[4] = 1386409661!
+yjagmybovr[883120.2778] = 703505854!
+print(yjagmybovr)!
+yjagmybovr[5] = 484447121!
+yjagmybovr[0] = 131165988!
+yjagmybovr[965446.0478] = 1505217712!
+yjagmybovr[-1] = 1117474825!
+yjagmybovr[53.4127] = 327221610!
+yjagmybovr[519209.6615] = 875250954!
+yjagmybovr[21.0401] = 403330941!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[938533.5011] = 1311660001!
+yjagmybovr[439885.5298] = 785328710!
+yjagmybovr[2] = 2098654113!
+yjagmybovr[837687.4851] = 1447553214!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[1038303.7369] = 1214705133!
+yjagmybovr[683902.0045] = 1513995550!
+yjagmybovr[94.2954] = 2080082683!
+yjagmybovr[610978.3368] = 318247981!
+yjagmybovr[8] = 1199235371!
+yjagmybovr[1] = 1213848385!
+yjagmybovr[1] = 2067461516!
+print(yjagmybovr)!
+yjagmybovr[-1] = 96100083!
+yjagmybovr[8] = 142340291!
+print(yjagmybovr)!
+yjagmybovr[8] = 1735729320!
+yjagmybovr[5] = 1755738080!
+yjagmybovr[8] = 1078589924!
+yjagmybovr[4] = 692823953!
+yjagmybovr[341876.4687] = 1829194859!
+yjagmybovr[71.5354] = 1693231058!
+yjagmybovr[-1] = 1593098751!
+print(yjagmybovr)!
+yjagmybovr[-1] = 1186493174!
+print(yjagmybovr)!
+yjagmybovr[16.2104] = 1496040105!
+yjagmybovr[361665.2606] = 1779736225!
+yjagmybovr[8.3675] = 2036893180!
+yjagmybovr[-1] = 525951764!
+yjagmybovr[665813.3116] = 1627218166!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[235408.9337] = 411520303!
+yjagmybovr[5] = 75665569!
+yjagmybovr[802637.1401] = 463369387!
+yjagmybovr[8] = 2095439898!
+yjagmybovr[943116.9393] = 433464585!
+yjagmybovr[57.6526] = 1500219090!
+print(yjagmybovr)!
+yjagmybovr[7] = 1470281136!
+print(yjagmybovr)!
+yjagmybovr[4] = 678542845!
+yjagmybovr[2] = 1937030850!
+print(yjagmybovr)!
+yjagmybovr[-1] = 225219!
+yjagmybovr[2] = 1721907546!
+yjagmybovr[53614.9905] = 50864603!
+yjagmybovr[21.8848] = 1222104858!
+yjagmybovr[793763.5528] = 1662470759!
+yjagmybovr[623473.4727] = 542419091!
+print(yjagmybovr)!
+yjagmybovr[6] = 2020831612!
+yjagmybovr[3] = 1205936042!
+print(yjagmybovr)!
+yjagmybovr[2] = 126858732!
+yjagmybovr[245196.2947] = 645227030!
+print(yjagmybovr)!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[14.781] = 1315622186!
+yjagmybovr[7] = 2114041949!
+yjagmybovr[428885.0281] = 638134689!
+yjagmybovr[755765.6832] = 1583801952!
+yjagmybovr[1.4321] = 1204068741!
+yjagmybovr[979999.7769] = 1460321821!
+yjagmybovr[831669.6198] = 1202069395!
+print(yjagmybovr)!
+yjagmybovr[4] = 2124177308!
+yjagmybovr[625532.4562] = 962784338!
+yjagmybovr[6] = 1885410053!
+yjagmybovr[37.919] = 1237938247!
+print(yjagmybovr)!
+yjagmybovr[667235.4875] = 1080742716!
+yjagmybovr[128408.9938] = 2059790708!
+print(yjagmybovr)!
+print(yjagmybovr)!
+yjagmybovr[762646.934] = 1079577169!
+yjagmybovr[129767.905] = 152567399!

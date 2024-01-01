@@ -1,0 +1,1 @@
+Enter 22 integers: x * max + y * min: 111

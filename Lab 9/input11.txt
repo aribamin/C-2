@@ -1,0 +1,4 @@
+3 2
+apple blueberry citrus
+apple aple itrus
+cus berry
